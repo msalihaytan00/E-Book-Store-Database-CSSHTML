@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Salih Aytan\\OneDrive\\Resimler\\AspEBook\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookShoppingCartMvcUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Salih Aytan\\OneDrive\\Resimler\\AspEBook\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Salih Aytan\\OneDrive\\Resimler\\AspEBook\\BookShoppingCartMvcUI\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Salih Aytan\\OneDrive\\Resimler\\AspEBook\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Salih Aytan\\OneDrive\\Resimler\\AspEBook\\BookShoppingCartMvcUI\\wwwroot\\images\\NoImage.png",
+      "PackagePath": "staticwebassets\\images\\NoImage.png"
+    },
+    {
+      "Id": "C:\\Users\\Salih Aytan\\OneDrive\\Resimler\\AspEBook\\BookShoppingCartMvcUI\\wwwroot\\images\\hobbit.jfif",
+      "PackagePath": "staticwebassets\\images\\hobbit.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Salih Aytan\\OneDrive\\Resimler\\AspEBook\\BookShoppingCartMvcUI\\wwwroot\\images\\img.jpg",
+      "PackagePath": "staticwebassets\\images\\img.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookShoppingCartMvcUI.props",
+      "PackagePath": "build\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildMultiTargeting\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildTransitive\\BookShoppingCartMvcUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
